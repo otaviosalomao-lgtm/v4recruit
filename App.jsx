@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 
 // ─── CONFIG ───────────────────────────────────────────────────
-const API_URL = "COLE_AQUI_A_URL_DO_APPS_SCRIPT";
+const API_URL = "https://script.google.com/macros/s/AKfycbxZNKQlqPjN6QgjuGPTa0S2TFjyv__1JgY0SSrZzOhD9rNZsWF1EhUWEfoy3CYlvC5M/exec";
 
 const FASES = [
   { id: "hunting",     label: "Hunting",          cor: "#444" },
